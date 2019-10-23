@@ -90,19 +90,19 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
     return l;
   });
   /*! *****************************************************************************
-  Copyright (c) Microsoft Corporation. All rights reserved.
-  Licensed under the Apache License, Version 2.0 (the "License"); you may not use
-  this file except in compliance with the License. You may obtain a copy of the
-  License at http://www.apache.org/licenses/LICENSE-2.0
+     Copyright (c) Microsoft Corporation. All rights reserved.
+     Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+     this file except in compliance with the License. You may obtain a copy of the
+     License at http://www.apache.org/licenses/LICENSE-2.0
   
-  THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-  KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
-  WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
-  MERCHANTABLITY OR NON-INFRINGEMENT.
+     THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+     WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+     MERCHANTABLITY OR NON-INFRINGEMENT.
   
-  See the Apache Version 2.0 License for specific language governing permissions
-  and limitations under the License.
-  ***************************************************************************** */
+     See the Apache Version 2.0 License for specific language governing permissions
+     and limitations under the License.
+     ***************************************************************************** */
 
   var _r2 = function r(e, t) {
     return (_r2 = Object.setPrototypeOf || {
@@ -173,10 +173,10 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 }, function (e, t, n) {
   var r;
   /*!
-    Copyright (c) 2017 Jed Watson.
-    Licensed under the MIT License (MIT), see
-    http://jedwatson.github.io/classnames
-  */
+       Copyright (c) 2017 Jed Watson.
+       Licensed under the MIT License (MIT), see
+       http://jedwatson.github.io/classnames
+     */
 
   !function () {
     "use strict";
@@ -336,22 +336,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
   }, a.a.createElement("path", {
     d: "M1.422 9.25h26.156M1.422 17.5h26.156M1.422 1.15h26.156"
   }))),
-      o = a.a.createElement("svg", {
-    width: "100",
-    height: "33",
-    viewBox: "0 0 2443 828",
-    fill: "none",
-    xmlns: "http://www.w3.org/2000/svg"
-  }, a.a.createElement("path", {
-    d: "M64.4548 542.868C34.457 510.843 19.4581 471.116 19.4581 423.687C19.4581 376.258 34.457 336.734 64.4548 305.115C94.858 273.09 133.166 257.078 179.379 257.078C224.781 257.078 260.454 269.847 286.398 295.386C312.748 320.924 327.747 349.503 331.395 381.123H242.618C239.375 367.34 231.875 355.989 220.119 347.071C208.363 338.153 194.581 333.694 178.771 333.694C156.07 333.694 138.233 342.004 125.261 358.624C112.289 374.839 105.803 396.527 105.803 423.687C105.803 450.847 112.289 472.738 125.261 489.358C138.233 505.573 156.07 513.681 178.771 513.681C194.581 513.681 208.363 509.222 220.119 500.303C231.875 491.385 239.375 480.034 242.618 466.252H331.395C327.747 497.871 312.748 526.45 286.398 551.989C260.454 577.527 224.781 590.297 179.379 590.297C133.166 590.297 94.858 574.487 64.4548 542.868ZM438.748 583H352.403V126.952H438.748V583ZM781.498 448.618H550.433C553.271 470.508 561.378 487.331 574.756 499.087C588.133 510.438 605.767 516.113 627.657 516.113C641.44 516.113 653.804 513.275 664.749 507.6C676.1 501.519 684.207 492.804 689.072 481.453H776.025C766.701 513.883 748.257 540.233 720.691 560.502C693.531 580.365 661.709 590.297 625.225 590.297C578.201 590.297 539.691 574.69 509.693 543.476C479.695 512.262 464.696 472.13 464.696 423.079C464.696 375.65 479.695 336.126 509.693 304.507C539.691 272.887 577.999 257.078 624.617 257.078C671.235 257.078 709.138 272.887 738.325 304.507C767.918 335.721 782.714 375.245 782.714 423.079L781.498 448.618ZM624.009 326.397C604.551 326.397 588.539 331.869 575.972 342.815C563.405 353.354 555.298 367.948 551.649 386.595H696.369C693.126 368.353 685.221 353.76 672.654 342.815C660.087 331.869 643.872 326.397 624.009 326.397ZM999.884 439.497L923.268 452.266C890.838 457.941 874.623 470.508 874.623 489.966C874.623 512.262 890.635 523.41 922.66 523.41C947.388 523.41 966.44 516.924 979.818 503.952C993.195 490.98 999.884 473.751 999.884 452.266V439.497ZM903.202 590.297C867.529 590.297 839.963 581.378 820.505 563.542C801.047 545.705 791.318 521.991 791.318 492.398C791.318 464.427 801.25 442.132 821.113 425.511C841.382 408.891 872.596 397.338 914.755 390.852L999.884 378.082V375.042C999.884 343.828 980.831 328.221 942.726 328.221C907.053 328.221 887.392 341.193 883.744 367.137H798.615C801.452 335.923 814.424 309.776 837.531 288.697C860.637 267.617 895.5 257.078 942.118 257.078C988.331 257.078 1023.19 267.415 1046.7 288.089C1070.22 308.763 1081.97 337.95 1081.97 375.65V525.842C1081.97 549.759 1085.01 568.812 1091.09 583H1007.79C1007.38 583 1006.98 581.581 1006.57 578.744C1006.17 575.906 1005.56 571.649 1004.75 565.974C1004.34 559.894 1004.14 553.813 1004.14 547.732C984.277 576.109 950.631 590.297 903.202 590.297ZM1305.95 261.942V342.815C1299.86 341.598 1294.19 340.99 1288.92 340.99C1263.38 340.99 1244.13 347.679 1231.15 361.057C1218.59 374.434 1212.3 395.514 1212.3 424.295V583H1125.96V264.374H1205.61V305.723C1223.86 276.13 1253.85 261.334 1295.61 261.334L1305.95 261.942Z",
-    fill: "white"
-  }), a.a.createElement("path", {
-    d: "M1439.1 590.297C1352.35 590.297 1306.34 553.408 1301.07 479.629H1388.63C1389.44 491.385 1394.11 501.317 1402.62 509.424C1411.54 517.126 1424.51 520.977 1441.54 520.977C1457.75 520.977 1470.11 518.342 1478.63 513.073C1487.14 507.803 1491.4 500.709 1491.4 491.79C1491.4 482.061 1485.32 474.967 1473.15 470.508C1460.99 465.644 1446.2 461.793 1428.77 458.955C1411.74 456.117 1394.51 452.266 1377.08 447.402C1359.65 442.537 1344.85 433.011 1332.69 418.823C1320.53 404.634 1314.45 385.784 1314.45 362.273C1314.45 332.68 1326.21 307.75 1349.72 287.481C1373.23 267.212 1404.04 257.078 1442.14 257.078C1485.52 257.078 1517.75 268.023 1538.83 289.913C1559.91 311.803 1571.26 336.734 1572.88 364.705H1489.57C1488.76 353.76 1484.1 344.639 1475.59 337.342C1467.48 330.045 1456.13 326.397 1441.54 326.397C1427.75 326.397 1417.01 329.437 1409.31 335.518C1401.61 341.193 1397.75 348.49 1397.75 357.408C1397.75 367.137 1403.84 374.231 1416 378.69C1428.16 383.15 1442.75 386.798 1459.78 389.636C1477.21 392.068 1494.44 395.716 1511.46 400.581C1528.89 405.445 1543.69 415.174 1555.85 429.768C1568.01 444.361 1574.09 463.819 1574.09 488.142C1574.09 517.734 1561.93 542.26 1537.61 561.718C1513.69 580.77 1480.86 590.297 1439.1 590.297Z",
-    fill: "white"
-  }), a.a.createElement("path", {
-    d: "M1756.15 506.384V581.176C1746.42 583.608 1732.84 584.824 1715.41 584.824C1650.14 584.824 1617.51 552.394 1617.51 487.534V332.478H1574.34V264.374H1617.51V185.326H1703.86V264.374H1756.76V332.478H1703.86V478.413C1703.86 499.087 1714.6 509.424 1736.08 509.424L1756.15 506.384ZM2066.54 448.618H1835.47C1838.31 470.508 1846.42 487.331 1859.8 499.087C1873.17 510.438 1890.81 516.113 1912.7 516.113C1926.48 516.113 1938.85 513.275 1949.79 507.6C1961.14 501.519 1969.25 492.804 1974.11 481.453H2061.07C2051.74 513.883 2033.3 540.233 2005.73 560.502C1978.57 580.365 1946.75 590.297 1910.27 590.297C1863.24 590.297 1824.73 574.69 1794.73 543.476C1764.74 512.262 1749.74 472.13 1749.74 423.079C1749.74 375.65 1764.74 336.126 1794.73 304.507C1824.73 272.887 1863.04 257.078 1909.66 257.078C1956.28 257.078 1994.18 272.887 2023.37 304.507C2052.96 335.721 2067.75 375.245 2067.75 423.079L2066.54 448.618ZM1909.05 326.397C1889.59 326.397 1873.58 331.869 1861.01 342.815C1848.45 353.354 1840.34 367.948 1836.69 386.595H1981.41C1978.17 368.353 1970.26 353.76 1957.7 342.815C1945.13 331.869 1928.91 326.397 1909.05 326.397ZM2179.12 548.948V709.477H2092.78V264.374H2172.43V303.29C2193.51 272.482 2227.16 257.078 2273.37 257.078C2318.37 257.078 2354.04 272.887 2380.39 304.507C2406.74 336.126 2419.92 375.853 2419.92 423.687C2419.92 471.522 2406.74 511.248 2380.39 542.868C2354.04 574.487 2318.37 590.297 2273.37 590.297C2252.29 590.297 2233.44 586.446 2216.82 578.744C2200.61 570.636 2188.04 560.704 2179.12 548.948ZM2197.97 358.624C2183.78 375.65 2176.69 397.338 2176.69 423.687C2176.69 450.037 2183.78 471.724 2197.97 488.75C2212.57 505.776 2231.62 514.289 2255.13 514.289C2278.64 514.289 2297.49 505.776 2311.68 488.75C2326.27 471.724 2333.57 450.037 2333.57 423.687C2333.57 397.338 2326.27 375.65 2311.68 358.624C2297.49 341.598 2278.64 333.086 2255.13 333.086C2231.62 333.086 2212.57 341.598 2197.97 358.624Z",
-    fill: "white"
-  })),
+      o = 'Uponelevel',
       l = (a.a.createElement("svg", {
     width: "100",
     height: "33",
@@ -867,10 +852,10 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 }, function (e, t, n) {
   "use strict";
   /*
-  object-assign
-  (c) Sindre Sorhus
-  @license MIT
-  */
+     object-assign
+     (c) Sindre Sorhus
+     @license MIT
+     */
 
   var r = Object.getOwnPropertySymbols,
       a = Object.prototype.hasOwnProperty,
@@ -1188,12 +1173,12 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
         }, a.a.createElement("button", {
           onClick: this.goToAbout,
           className: "nav__link"
-        }, "Why Clearstep?"), a.a.createElement("button", {
+        }, "How it works"), a.a.createElement("button", {
           className: "nav__link",
           onMouseEnter: this.openSolutionsTooltip,
           onMouseLeave: this.closeSolutionsTooltip,
           onTouchEnd: this.openSolutionsTooltip
-        }, "Solutions", t && a.a.createElement("div", {
+        }, "Budget Categorization", t && a.a.createElement("div", {
           ref: this.solutionsTooltip,
           className: "nav-tooltip nav-tooltip--showing"
         }, a.a.createElement("div", {
@@ -1227,7 +1212,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
           onMouseEnter: this.openResourcesTooltip,
           onMouseLeave: this.closeResourcesTooltip,
           onTouchEnd: this.openResourcesTooltip
-        }, "Resources", n && a.a.createElement("div", {
+        }, "Customer Service", n && a.a.createElement("div", {
           ref: this.resourcesTooltip,
           className: "nav-tooltip nav-tooltip--showing"
         }, a.a.createElement("div", {
@@ -10804,7 +10789,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
             "products-cta__symptom-checker-button--hidden": e
           }),
           onClick: this.handleClickCTA
-        }, "Try the symptom checker"), r.createElement("form", {
+        }, "Try trial version"), r.createElement("form", {
           method: "post",
           action: "/start_conversation"
         }, r.createElement("div", {
@@ -10830,7 +10815,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
           className: "products-cta__immunizations-airplane"
         }), r.createElement("div", {
           className: "products-cta__immunizations-text"
-        }, "Travel immunizations"), r.createElement("div", {
+        }, "Checkout Demo"), r.createElement("div", {
           className: "products-cta__immunizations-arrow"
         }))));
       }
@@ -10872,9 +10857,9 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "content-block"
     }, a.a.createElement("div", {
       className: "header header--light header--shadow"
-    }, "The digital front door to healthcare is finally here"), a.a.createElement("div", {
+    }, "Perhaps the ideal budget management software"), a.a.createElement("div", {
       className: "text text--light clearstep-hero-subtitle"
-    }, "Deliver the best and most actionable next step for care when the patient needs it most, all configured to your health system."), a.a.createElement(m, null)))), a.a.createElement("div", {
+    }, "No matter what you do, we can help you get information about your money in a more reasonable and simple way so that you can focus on other things."), a.a.createElement(m, null)))), a.a.createElement("div", {
       className: "snap-scrolling-buttons snap-scrolling-buttons--hidden"
     }, a.a.createElement("div", {
       className: "snap-scrolling-buttons__item"

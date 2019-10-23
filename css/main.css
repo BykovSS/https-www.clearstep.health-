@@ -472,7 +472,14 @@
   color: #4d39b9; }
 
 .nav__wordmark {
-  margin-right: 2rem; }
+  margin-right: 2rem;
+  position: relative;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #ffffff;
+  outline: none;
+  padding: .1rem .5rem;
+  text-decoration: none; }
 
 .nav__links {
   display: -webkit-box;
@@ -4703,7 +4710,7 @@ body {
 .floating-phone-section .hero-icon:first-child {
   -webkit-transform: translate3d(-30%, -150%, 0);
   transform: translate3d(-30%, -150%, 0);
-  background-image: url("../img/home-hero-icon-notebook.svg");
+  background-image: url("../img/icons8-bitcoin-accepted-96.png");
   -webkit-animation: icon-pulsate-medium-screen1 2s ease-in-out infinite alternate;
   animation: icon-pulsate-medium-screen1 2s ease-in-out infinite alternate;
   -webkit-animation-delay: .1s;
@@ -4728,7 +4735,7 @@ body {
 .floating-phone-section .hero-icon:nth-child(2) {
   -webkit-transform: translate3d(80%, -540%, 0);
   transform: translate3d(80%, -540%, 0);
-  background-image: url("../img/home-hero-icon-bottles.svg");
+  background-image: url("../img/icons8-euro-96.png");
   -webkit-animation: icon-pulsate-medium-screen2 2s ease-in-out infinite alternate;
   animation: icon-pulsate-medium-screen2 2s ease-in-out infinite alternate;
   -webkit-animation-delay: .5s;
@@ -4753,7 +4760,7 @@ body {
 .floating-phone-section .hero-icon:nth-child(3) {
   -webkit-transform: translate3d(110%, -320%, 0);
   transform: translate3d(110%, -320%, 0);
-  background-image: url("../img/home-hero-icon-cross.svg");
+  background-image: url("../img/icons8-gold-bars-96.png");
   -webkit-animation: icon-pulsate-medium-screen3 2s ease-in-out infinite alternate;
   animation: icon-pulsate-medium-screen3 2s ease-in-out infinite alternate;
   -webkit-animation-delay: .2s;
@@ -4778,7 +4785,7 @@ body {
 .floating-phone-section .hero-icon:nth-child(4) {
   -webkit-transform: translate3d(300%, -400%, 0);
   transform: translate3d(300%, -400%, 0);
-  background-image: url("../img/home-hero-icon-chart.svg");
+  background-image: url("../img/icons8-safe-in-96.png");
   -webkit-animation: icon-pulsate-medium-screen4 2s ease-in-out infinite alternate;
   animation: icon-pulsate-medium-screen4 2s ease-in-out infinite alternate;
   -webkit-animation-delay: .3s;
@@ -4803,7 +4810,7 @@ body {
 .floating-phone-section .hero-icon:nth-child(5) {
   -webkit-transform: translate3d(360%, -200%, 0);
   transform: translate3d(360%, -200%, 0);
-  background-image: url("../img/home-hero-icon-doctor.svg");
+  background-image: url("../img/icons8-swiss-franc-96.png");
   -webkit-animation: icon-pulsate-medium-screen5 2s ease-in-out infinite alternate;
   animation: icon-pulsate-medium-screen5 2s ease-in-out infinite alternate;
   -webkit-animation-delay: .3s;
@@ -4828,7 +4835,7 @@ body {
 .floating-phone-section .hero-icon:nth-child(6) {
   -webkit-transform: translate3d(540%, 140%, 0);
   transform: translate3d(540%, 140%, 0);
-  background-image: url("../img/home-hero-icon-microscope.svg");
+  background-image: url("../img/icons8-trophy-96.png");
   -webkit-animation: icon-pulsate-medium-screen6 2s ease-in-out infinite alternate;
   animation: icon-pulsate-medium-screen6 2s ease-in-out infinite alternate;
   -webkit-animation-delay: .1s;
@@ -4853,7 +4860,7 @@ body {
 .floating-phone-section .hero-icon:nth-child(7) {
   -webkit-transform: translate3d(-172%, 61%, 0);
   transform: translate3d(-172%, 61%, 0);
-  background-image: url("../img/home-hero-icon-pills.svg");
+  background-image: url("../img/icons8-us-dollar-96.png");
   -webkit-animation: icon-pulsate-medium-screen7 2s ease-in-out infinite alternate;
   animation: icon-pulsate-medium-screen7 2s ease-in-out infinite alternate;
   -webkit-animation-delay: .1s;
