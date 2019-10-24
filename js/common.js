@@ -1006,55 +1006,52 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
           className: "menu__link-block"
         }, r.createElement("div", {
           className: "menu__header"
-        }, "Solutions"), r.createElement("a", {
+        }, "HOW IT WORKS"), r.createElement("a", {
           href: "/patient.html",
           className: "menu__link"
-        }, "For patients"), r.createElement("a", {
+        }, "Try trial version"), r.createElement("a", {
           href: "/business.html",
           className: "menu__link"
-        }, "For businesses")), r.createElement("div", {
+        }, "Checkout Demo")), r.createElement("div", {
           className: "menu__link-block"
         }, r.createElement("div", {
           className: "menu__header"
-        }, "Products"), r.createElement("a", {
+        }, "RECOMENDATIONS"), r.createElement("a", {
           href: "/",
           className: "menu__link"
-        }, "Symptom checker"), r.createElement("a", {
+        }, "Saving Money Tips"), r.createElement("a", {
           href: "/immunizations/start_conversation",
           className: "menu__link"
-        }, "Immunizations")), r.createElement("div", {
+        }, "Money Management strategies")), r.createElement("div", {
           className: "menu__link-block"
         }, r.createElement("div", {
           className: "menu__header"
-        }, "Company"), r.createElement("a", {
+        }, "ABOUT US"), r.createElement("a", {
           href: "/about.html",
           className: "menu__link"
-        }, "About us"), r.createElement("a", {
+        }, "Security"), r.createElement("a", {
           href: "/privacy.html",
           className: "menu__link"
-        }, "Privacy policy"), r.createElement("a", {
-          href: "/terms_and_conditions.html",
-          className: "menu__link"
-        }, "Terms & conditions")), r.createElement("div", {
+        }, "Customer Service")), r.createElement("div", {
           className: "menu__link-block"
         }, r.createElement("div", {
           className: "menu__header"
-        }, "Resources"), r.createElement("a", {
+        }, "EXPLORE"), r.createElement("a", {
           href: "/partnerships.html",
           className: "menu__link"
-        }, "Partnerships"), r.createElement("a", {
+        }, "FAQ"), r.createElement("a", {
           href: "/contact.html",
           className: "menu__link"
-        }, "Contact us"), r.createElement("a", {
+        }, "Developer portal"), r.createElement("a", {
           href: "/newsroom.html",
           className: "menu__link"
-        }, "Newsroom")), r.createElement("div", {
+        }, "Partners")), r.createElement("div", {
           className: "menu__link-block"
         }, r.createElement("div", {
           className: "menu__header"
-        }, "Subscribe to our newsletter"), r.createElement("div", {
+        }, "Do you want to know more?"), r.createElement("div", {
           className: "menu__text"
-        }, "The latest Clearstep news, articles, and resources, sent straight to your inbox every month."), r.createElement("form", {
+        }, "Fill out the form and we will send you our presentation"), r.createElement("form", {
           className: i()({
             "menu__subscribe-block": !0,
             "menu__subscribe-block--error": n,
@@ -1075,10 +1072,10 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
         })))), r.createElement("div", {
           className: "menu__row menu__row--bottom reveal-anim--fade-up"
         }, r.createElement("div", {
-          className: "menu__hipaa-icon"
+          className: "menu__hipaa"
         }), r.createElement("div", {
           className: "menu__text"
-        }, "© 2019 Clearstep"), r.createElement("div", {
+        }, "© 2019 Uponelevel"), r.createElement("div", {
           className: "menu__social-media-block"
         }, r.createElement("a", {
           href: "https://twitter.com/clearstephealth",
@@ -1178,63 +1175,12 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
           onMouseEnter: this.openSolutionsTooltip,
           onMouseLeave: this.closeSolutionsTooltip,
           onTouchEnd: this.openSolutionsTooltip
-        }, "Budget Categorization", t && a.a.createElement("div", {
-          ref: this.solutionsTooltip,
-          className: "nav-tooltip nav-tooltip--showing"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__hover-zone"
-        }), a.a.createElement("div", null, a.a.createElement("a", {
-          href: "/business.html",
-          className: "nav-tooltip__item"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__top-triangle"
-        }), a.a.createElement("div", {
-          className: "nav-tooltip__image nav-tooltip__image--business"
-        }), a.a.createElement("div", {
-          className: "nav-tooltip__text-container"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__title"
-        }, "Businesses"), a.a.createElement("div", {
-          className: "nav-tooltip__subtitle"
-        }, "Solutions tailored for growth"))), a.a.createElement("a", {
-          href: "/patient.html",
-          className: "nav-tooltip__item"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__image nav-tooltip__image--patients"
-        }), a.a.createElement("div", {
-          className: "nav-tooltip__text-container"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__title"
-        }, "Patients"), a.a.createElement("div", {
-          className: "nav-tooltip__subtitle"
-        }, "Helping everyone get better care")))))), a.a.createElement("button", {
+        }, "Budget Categorization"), a.a.createElement("button", {
           className: "nav__link",
           onMouseEnter: this.openResourcesTooltip,
           onMouseLeave: this.closeResourcesTooltip,
           onTouchEnd: this.openResourcesTooltip
-        }, "Customer Service", n && a.a.createElement("div", {
-          ref: this.resourcesTooltip,
-          className: "nav-tooltip nav-tooltip--showing"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__hover-zone"
-        }), a.a.createElement("div", null, a.a.createElement("a", {
-          href: "/partnerships.html",
-          className: "nav-tooltip__item"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__top-triangle"
-        }), a.a.createElement("div", {
-          className: "nav-tooltip__title"
-        }, "Partnerships")), a.a.createElement("a", {
-          href: "/newsroom.html",
-          className: "nav-tooltip__item"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__title"
-        }, "Newsroom")), a.a.createElement("a", {
-          href: "/contact.html",
-          className: "nav-tooltip__item"
-        }, a.a.createElement("div", {
-          className: "nav-tooltip__title"
-        }, "Contact us"))))))));
+        }, "Customer Service"))));
       }
     }]);
 
@@ -10873,12 +10819,6 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "snap-scrolling-buttons__item"
     }), a.a.createElement("div", {
       className: "snap-scrolling-buttons__item"
-    }), a.a.createElement("div", {
-      className: "snap-scrolling-buttons__item"
-    }), a.a.createElement("div", {
-      className: "snap-scrolling-buttons__item"
-    }), a.a.createElement("div", {
-      className: "snap-scrolling-buttons__item"
     })), a.a.createElement("div", {
       className: "floating-phone-section"
     }, a.a.createElement("div", {
@@ -10991,69 +10931,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "content-block"
     }, a.a.createElement("div", {
       className: "header reveal-anim--fade-up"
-    }, "Provide patients clear next steps for treating symptoms"), a.a.createElement("div", {
-      className: "content-block__info-row-container"
-    }, a.a.createElement("div", {
-      className: "content-block__info-row"
-    }, a.a.createElement("div", {
-      className: "icon icon--arrows"
-    }), a.a.createElement("div", {
-      className: "text"
-    }, "Engage in an AI dialog and triage to the right point of care, giving patients multiple options")), a.a.createElement(u, {
-      screen: "clearstep-chat"
-    }), a.a.createElement(u, {
-      screen: "clearstep-results"
-    }), a.a.createElement("div", {
-      className: "content-block__info-row"
-    }, a.a.createElement("div", {
-      className: "icon icon--notebook"
-    }), a.a.createElement("div", {
-      className: "text"
-    }, "Provide information on possible causes and resources to treat minor ailments quickly")), a.a.createElement(u, {
-      screen: "clearstep-causes"
-    }), a.a.createElement("div", {
-      className: "content-block__info-row"
-    }, a.a.createElement("div", {
-      className: "icon icon--doctor"
-    }), a.a.createElement("div", {
-      className: "text"
-    }, "Determine payer eligibility and match patients with the best providers for them")), a.a.createElement(u, {
-      screen: "clearstep-overlay"
-    }), a.a.createElement("div", {
-      className: "content-block__accent-line"
-    }))), a.a.createElement("div", {
-      className: "floating-phone-container hide-if-mobile"
-    }))), a.a.createElement("div", {
-      className: "floating-phone-state-placeholder--triage floating-phone-state-placeholder"
-    }, a.a.createElement("div", {
-      className: "floating-phone__color-circle"
-    }), a.a.createElement("div", {
-      className: "floating-phone__color-circle"
-    })), a.a.createElement("div", {
-      className: "floating-phone-state-placeholder--results floating-phone-state-placeholder"
-    }, a.a.createElement("div", {
-      className: "floating-phone__color-circle"
-    })), a.a.createElement("div", {
-      className: "floating-phone-state-placeholder--causes floating-phone-state-placeholder"
-    }, a.a.createElement("div", {
-      className: "floating-phone__color-circle"
-    })), a.a.createElement("div", {
-      className: "floating-phone-state-placeholder--provider-overlay floating-phone-state-placeholder"
-    }, a.a.createElement("div", {
-      className: "floating-phone__color-circle"
-    }), a.a.createElement("div", {
-      className: "floating-phone__color-circle"
-    }))), a.a.createElement("div", {
-      className: "lytic-index__info-group"
-    }, a.a.createElement("div", {
-      className: "floating-phone-layer"
-    }, a.a.createElement("div", {
-      className: "row-section"
-    }, a.a.createElement("div", {
-      className: "content-block"
-    }, a.a.createElement("div", {
-      className: "header reveal-anim--fade-up"
-    }, "Choosing, scheduling, and accessing care made easy"), a.a.createElement("div", {
+    }, "You control and use all your money in one place"), a.a.createElement("div", {
       className: "content-block__info-row-container"
     }, a.a.createElement("div", {
       className: "content-block__info-row"
@@ -11061,7 +10939,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "icon icon--circles"
     }), a.a.createElement("div", {
       className: "text"
-    }, "Pricing, wait times, ratings, and reviews for every doctor all visible to the patient")), a.a.createElement(u, {
+    }, "Real-time data on receiving and writing off money on all your accounts. You can plan your expenses profitably")), a.a.createElement(u, {
       screen: "doctor-profile"
     }), a.a.createElement("div", {
       className: "content-block__info-row"
@@ -11069,7 +10947,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "icon icon--calendar"
     }), a.a.createElement("div", {
       className: "text"
-    }, "The easiest way for patients to schedule their care - whether online or in-person")), a.a.createElement(u, {
+    }, "Detailed and versatile analytics according to your settings allows you to effectively save")), a.a.createElement(u, {
       screen: "mobile-schedule"
     }), a.a.createElement("div", {
       className: "content-block__info-row"
@@ -11077,7 +10955,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "icon icon--camera"
     }), a.a.createElement("div", {
       className: "text"
-    }, "Telemedicine options that fit the patient and doctor’s schedule")), a.a.createElement(u, {
+    }, "Uninterrupted and efficient customer support 24/7")), a.a.createElement(u, {
       screen: "telemedicine"
     }), a.a.createElement("div", {
       className: "content-block__accent-line"
@@ -11109,14 +10987,14 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "tablet-block"
     }, a.a.createElement("div", {
       className: "header reveal-anim--fade-up"
-    }, "Helping health systems help their patients"), a.a.createElement("div", {
+    }, "Use it on any of your devices"), a.a.createElement("div", {
       className: "text reveal-anim--fade-up"
-    }, "Clearstep's technology is configurable for health systems to maintain their brand and integrate their geo-specific resources, provider directories, scheduling, and medical records with our advanced digital front door solution.")), a.a.createElement(u, {
+    }, "Phone, tablet, and PC apps to control your money, wherever you are. Balances and accounts, exchange rates, credit ratings and much more are now on in mobile and desktop versions.")), a.a.createElement(u, {
       screen: "tablet-screen"
     }), a.a.createElement("a", {
       href: "/business.html",
       className: "content-block__link content-block__link--business reveal-anim--fade-up"
-    }, "More about business solutions", a.a.createElement("div", {
+    }, "See all the possibilities", a.a.createElement("div", {
       className: "content-block__link-arrow"
     }), a.a.createElement("div", {
       className: "content-block__link-arrow content-block__link-arrow--fade-in-on-hover"
@@ -11134,7 +11012,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "column-section"
     }, a.a.createElement("div", {
       className: "header reveal-anim--fade-up"
-    }, "Everyone deserves an end-to-end support system"), a.a.createElement("div", {
+    }, "Use easy way to stay up to date with all the events"), a.a.createElement("div", {
       className: "icon-info-button-banner reveal-anim--fade-up"
     }, a.a.createElement("div", {
       className: "icon-info-button-container"
@@ -11142,9 +11020,9 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "icon-info-button__underline"
     }), a.a.createElement("div", {
       className: "icon-info-button js-icon-info-button--business"
-    }, "Business"), a.a.createElement("div", {
+    }, "Alerts"), a.a.createElement("div", {
       className: "icon-info-button js-icon-info-button--patient"
-    }, "Patients"))), a.a.createElement("div", {
+    }, "Reminders"))), a.a.createElement("div", {
       className: "icon-info-group-container reveal-anim--fade-up"
     }, a.a.createElement("div", {
       className: "icon-info-group"
@@ -11154,39 +11032,25 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "icon-info-block__icon"
     }), a.a.createElement("div", {
       className: "icon-info-block__header"
-    }, "Drive Growth"), a.a.createElement("div", {
+    }, "Bill alerts"), a.a.createElement("div", {
       className: "icon-info-block__text"
-    }, "Reach new patients"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Reduce leakage"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Enhance continuity of care"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Increase quality measure scores")), a.a.createElement("div", {
+    }, "Tracking bills and timely notification")), a.a.createElement("div", {
       className: "icon-info-block reveal-anim--fade-up"
     }, a.a.createElement("div", {
       className: "icon-info-block__icon"
     }), a.a.createElement("div", {
       className: "icon-info-block__header"
-    }, "Cut Costs"), a.a.createElement("div", {
+    }, "To pay attention"), a.a.createElement("div", {
       className: "icon-info-block__text"
-    }, "Reduce ER & hospital over-utilization"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Enhance patient outcomes")), a.a.createElement("div", {
+    }, "If there are large or non-standard expenses")), a.a.createElement("div", {
       className: "icon-info-block reveal-anim--fade-up"
     }, a.a.createElement("div", {
       className: "icon-info-block__icon"
     }), a.a.createElement("div", {
       className: "icon-info-block__header"
-    }, "Customer Experience"), a.a.createElement("div", {
+    }, "Low funds"), a.a.createElement("div", {
       className: "icon-info-block__text"
-    }, "Increase commercial customers"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Improve patient engagement"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Improve patient satisfaction"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Enhance patient literacy"))), a.a.createElement("div", {
+    }, "You got a warning when your accounts are low"))), a.a.createElement("div", {
       className: "icon-info-group icon-info-group--patient-blocks"
     }, a.a.createElement("div", {
       className: "icon-info-block"
@@ -11194,40 +11058,25 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "icon-info-block__icon"
     }), a.a.createElement("div", {
       className: "icon-info-block__header"
-    }, "Confident Decision-Making"), a.a.createElement("div", {
+    }, "No worries"), a.a.createElement("div", {
       className: "icon-info-block__text"
-    }, "Access to the most trusted clinical content"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Effortless routing to the best care")), a.a.createElement("div", {
+    }, "You will never miss a single scheduled event")), a.a.createElement("div", {
       className: "icon-info-block"
     }, a.a.createElement("div", {
       className: "icon-info-block__icon"
     }), a.a.createElement("div", {
       className: "icon-info-block__header"
-    }, "Shop for Care"), a.a.createElement("div", {
+    }, "Reports"), a.a.createElement("div", {
       className: "icon-info-block__text"
-    }, "Compare care options based on individual insurance coverage"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "View the most relevant choices for unique care needs")), a.a.createElement("div", {
+    }, "Get analytical data and recommendations")), a.a.createElement("div", {
       className: "icon-info-block"
     }, a.a.createElement("div", {
       className: "icon-info-block__icon"
     }), a.a.createElement("div", {
       className: "icon-info-block__header"
-    }, "Convenience and Transparency"), a.a.createElement("div", {
+    }, "It is important"), a.a.createElement("div", {
       className: "icon-info-block__text"
-    }, "Easy access to virtual care"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Immediate scheduling capabilities for in-person care"), a.a.createElement("div", {
-      className: "icon-info-block__text"
-    }, "Transparent pricing for all suggested options")))), a.a.createElement("a", {
-      href: "/patient.html",
-      className: "content-block__link"
-    }, "Learn more about patient solutions", a.a.createElement("div", {
-      className: "content-block__link-arrow"
-    }), a.a.createElement("div", {
-      className: "content-block__link-arrow content-block__link-arrow--fade-in-on-hover"
-    })))), a.a.createElement("div", {
+    }, "Have you called your mom for a long time?")))))), a.a.createElement("div", {
       className: "section-wrapper"
     }, a.a.createElement("div", {
       className: "row-section row-section--with-image"
@@ -11237,11 +11086,11 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "content-block__accent-line reveal-anim--fade-up"
     }), a.a.createElement("div", {
       className: "header header--small reveal-anim--fade-up"
-    }, "We’re helping clinics be more efficient and assist more patients"), a.a.createElement("div", {
+    }, "Safety is the top priority"), a.a.createElement("div", {
       className: "text reveal-anim--fade-up"
-    }, "With the help of our HPI automation technology, patients are entering in their symptoms before their appointment and care professionals are getting an automated & completely editable history of present illness summary— all before the patient walks in the room."), a.a.createElement("div", {
+    }, "We create innovative payment solutions and regularly improve security algorithms in connection with the emergence of new threats. You can choose several combinations of two-level authentication that are most convenient for you."), a.a.createElement("div", {
       className: "content-block__tag reveal-anim--fade-up"
-    }, "Case study coming soon")), a.a.createElement("div", {
+    }, "Learn more")), a.a.createElement("div", {
       className: "row-section__image row-section__image--doctor-computer reveal-anim--fade-up reveal-anim--background-shrink"
     }))), a.a.createElement("div", {
       className: "section-wrapper"
@@ -11285,17 +11134,17 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
       className: "column-section"
     }, a.a.createElement("div", {
       className: "header header--light reveal-anim--fade-up"
-    }, "Interested to know more about us and what we do?"), a.a.createElement("div", {
+    }, "Download our free app\n" + "Available for PC, iOS and Android"), a.a.createElement("div", {
       className: "text text--light reveal-anim--fade-up"
-    }, "Whether it's in regards to feedback, partnerships, careers, or anything else, we’re here to listen. Don’t be afraid to reach out!"), a.a.createElement("div", {
+    }, "Uponelevel is a universal software that can be used on all systems. Nothing prevents you from starting."), a.a.createElement("div", {
       className: "btn-container"
     }, a.a.createElement("a", {
       href: "contact.html",
       className: "btn btn--white reveal-anim--fade-up"
-    }, "Contact Us"), a.a.createElement("a", {
+    }, "Desktop"), a.a.createElement("a", {
       href: "about.html",
       className: "btn btn--outlined-white reveal-anim--fade-up"
-    }, "About Us")))), a.a.createElement(l.a, {
+    }, "Mobile")))), a.a.createElement(l.a, {
       useSectionSeparator: !0
     }));
   },
